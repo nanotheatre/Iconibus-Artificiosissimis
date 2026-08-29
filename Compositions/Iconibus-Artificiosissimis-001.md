@@ -5,10 +5,8 @@
 </p>
 <table align="center">
     <tr>
-        <td valign="middle"><a href="Iconibus-Artificiosissimis-003.md"><img src="https://raw.githubusercontent.com/nanotheatre/nanotheatre/163f87081bbcb48b0ddd849b1908eb49476ed25b/icones/chevron-left-24.svg"></a></td>
         <td align="center">01</td>
         <td align="center"><a href="Iconibus-Artificiosissimis-002.md">02</a></td>
         <td align="center"><a href="Iconibus-Artificiosissimis-003.md">03</a></td>
-        <td valign="middle"><a href=""><img src="https://raw.githubusercontent.com/nanotheatre/nanotheatre/163f87081bbcb48b0ddd849b1908eb49476ed25b/icones/chevron-right-24.svg"></a></td>
     </tr>
 </table>
