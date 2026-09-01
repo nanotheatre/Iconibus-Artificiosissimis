@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<p align="center">| 
+<p align="center">
 <a href="Iconibus-Artificiosissimis-004.md">01</a> | 
 <a href="Iconibus-Artificiosissimis-005.md">02</a> | 
 <a href="Iconibus-Artificiosissimis-006.md">03</a> | 
