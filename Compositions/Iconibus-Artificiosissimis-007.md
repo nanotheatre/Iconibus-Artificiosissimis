@@ -8,6 +8,6 @@
 <a href="Iconibus-Artificiosissimis-004.md">01</a> | 
 <a href="Iconibus-Artificiosissimis-005.md">02</a> | 
 <a href="Iconibus-Artificiosissimis-006.md">03</a> | 
-04 | 
+<u>04</u> | 
 <a href="Iconibus-Artificiosissimis-008.md">05</a>
 </p>
