@@ -4,9 +4,11 @@
     </a>
 </p>
 <p align="center">
+<a href="Iconibus-Artificiosissimis-004.md">←</a> |
 <a href="Iconibus-Artificiosissimis-004.md">01</a> | 
 <a href="Iconibus-Artificiosissimis-005.md">02</a> | 
 <a href="Iconibus-Artificiosissimis-006.md">03</a> | 
 <a href="Iconibus-Artificiosissimis-007.md">04</a> | 
-<u>05</u>
+<u>05</u> | 
+<a href="Iconibus-Artificiosissimis-004.md">→</a>
 </p>
