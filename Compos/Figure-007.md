@@ -4,11 +4,11 @@
     </a>
 </p>
 <p align="center">
-<a href="Figure-006.md">←</a> |
+<a href="Figure-006.md"><img src="../prec.svg"></a> |
 <a href="Figure-004.md">01</a> | 
 <a href="Figure-005.md">02</a> | 
 <a href="Figure-006.md">03</a> | 
 <u>04</u> | 
 <a href="Figure-008.md">05</a> | 
-<a href="Figure-008.md">→</a>
+<a href="Figure-008.md"><img src="../suiv.svg"></a>
 </p>
