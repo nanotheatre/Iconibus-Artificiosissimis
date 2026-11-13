@@ -4,7 +4,6 @@
     </a>
 </p>
 <hr>
-<p>&nbsp;</p>
 <p align="center">
 <a href="Figure-003.md">←</a> | 
 <u>01</u> | 
