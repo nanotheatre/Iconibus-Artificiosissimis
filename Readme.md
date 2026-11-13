@@ -1,1 +1,1 @@
-<p align="center"><a href="Compos/Artefact-001.md"><img src="Compos/Artefacts/Artificiosissimis-095-03_1500x1500.png" height="650"></a><a href="Compos/Artefact-004.md"><img src="Compos/Artefacts/Artificiosissimis-075-03_1500x1500.png" height="650"></a></p>
+<p align="center"><a href="Compos/Figure-001.md"><img src="Compos/Artefacts/Artificiosissimis-095-03_1500x1500.png" height="650"></a><a href="Compos/Figure-004.md"><img src="Compos/Artefacts/Artificiosissimis-075-03_1500x1500.png" height="650"></a></p>

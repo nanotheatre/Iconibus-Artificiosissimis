@@ -4,11 +4,11 @@
     </a>
 </p>
 <p align="center">
-<a href="Artefact-001.md">←</a> | 
-<a href="Artefact-001.md">01</a> | 
-<a href="Artefact-002.md">02</a> | 
+<a href="Figure-001.md">←</a> | 
+<a href="Figure-001.md">01</a> | 
+<a href="Figure-002.md">02</a> | 
 <u>03</u> | 
-<a href="Artefact-001.md">→</a>
+<a href="Figure-001.md">→</a>
 
 
 </p>
