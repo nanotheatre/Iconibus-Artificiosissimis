@@ -1,1 +1,1 @@
-<p align="center"><a href="Compos/Figure-001.md"><img src="Compos/Artefacts/Figure-009_1500x1500.png" height="650"></a><a href="Compos/Figure-004.md"><img src="Compos/Artefacts/Figure-010_1500x1500.png" height="650"></a></p>
+<p align="center"><a href="Polyptyq-01/Figure-001.md"><img src="Polyptyq-01/Figures/Figure-001.png" height="650"></a><a href="Polyptyq-02/Figure-001.md"><img src="Polyptyq-01/Figures/Figure-001.png" height="650"></a></p>
