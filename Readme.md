@@ -1,1 +1,1 @@
-<p align="center"><a href="Polyptyq-01/Figure-001.md"><img src="Polyptyq-01/Figures/Figure-001.png" height="650"></a><a href="Polyptyq-02/Figure-001.md"><img src="Polyptyq-01/Figures/Figure-001.png" height="650"></a></p>
+<p align="center"><a href="Polyptyq-01/Figure-009.md"><img src="Polyptyq-01/Figures/Figure-009.png" height="650"></a><a href="Polyptyq-01/Figure-010.md"><img src="Polyptyq-01/Figures/Figure-010.png" height="650"></a></p>
