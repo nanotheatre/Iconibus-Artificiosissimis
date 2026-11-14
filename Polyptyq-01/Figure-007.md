@@ -10,8 +10,8 @@
 <a href="Figure-006.md">06</a> | 
 <u>07</u> | 
 <a href="Figure-008.md">08</a> | 
-… | 
-<a href="Figure-026.md">26</a> | 
+<a href="Figure-009.md">09</a> | 
+<a href="Figure-010.md">10</a> | 
 <a href="Figure-008.md"><img src="../suiv.svg"></a> 
 
 </p>

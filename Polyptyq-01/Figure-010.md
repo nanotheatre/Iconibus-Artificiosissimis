@@ -7,11 +7,11 @@
 <a href="Figure-009.md"><img src="../prec.svg"></a> | 
 <a href="Figure-001.md">01</a> | 
 … | 
+<a href="Figure-006.md">06</a> | 
+<a href="Figure-007.md">07</a> | 
+<a href="Figure-008.md">08</a> | 
 <a href="Figure-009.md">09</a> | 
 <u>10</u> | 
-<a href="Figure-011.md">11</a> | 
-… | 
-<a href="Figure-026.md">26</a> | 
-<a href="Figure-011.md"><img src="../suiv.svg"></a> 
+<a href="Figure-001.md"><img src="../suiv.svg"></a> 
 
 </p>

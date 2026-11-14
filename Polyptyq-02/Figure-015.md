@@ -1,0 +1,17 @@
+<p align="center">
+    <a href="https://nanotheatre.github.io/iconibus.html?art=Polyptyq-02/015"> 
+        <img src="Figures/Figure-015.png" height="650">
+    </a>
+</p>
+<p align="center">
+<a href="Figure-014.md"><img src="../prec.svg"></a> | 
+<a href="Figure-001.md">01</a> | 
+… | 
+<a href="Figure-014.md">14</a> | 
+<u>15</u> | 
+<a href="Figure-016.md">16</a> | 
+… | 
+<a href="Figure-026.md">26</a> | 
+<a href="Figure-016.md"><img src="../suiv.svg"></a> 
+
+</p>

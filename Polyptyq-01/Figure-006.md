@@ -11,7 +11,7 @@
 <u>06</u> | 
 <a href="Figure-007.md">07</a> | 
 … | 
-<a href="Figure-026.md">26</a> | 
+<a href="Figure-010.md">10</a> | 
 <a href="Figure-007.md"><img src="../suiv.svg"></a> 
 
 </p>
