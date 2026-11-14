@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://nanotheatre.github.io/iconibus.html?art=Artificiosissimis-064-06_1500x1500.png"> 
-        <img src="Artefacts/Artificiosissimis-064-06_1500x1500.png" height="650">
+    <a href="https://nanotheatre.github.io/iconibus.html?art=Figure-002_1500x1500.png"> 
+        <img src="Artefacts/Figure-002_1500x1500.png" height="650">
     </a>
 </p>
 <p align="center">

@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://nanotheatre.github.io/iconibus.html?art=Mineral-41_1500x1500.png"> 
-        <img src="Artefacts/Mineral-41_1500x1500.png" height="650">
+    <a href="https://nanotheatre.github.io/iconibus.html?art=Figure-004_1500x1500.png"> 
+        <img src="Artefacts/Figure-004_1500x1500.png" height="650">
     </a>
 </p>
 <p align="center">
