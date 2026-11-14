@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://nanotheatre.github.io/iconibus.html?art=Polyptyq-01/Figures/006"> 
+    <a href="https://nanotheatre.github.io/iconibus.html?art=Polyptyq-01/006"> 
         <img src="Figures/Figure-006.png" height="650">
     </a>
 </p>
